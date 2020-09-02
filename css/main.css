@@ -315,3 +315,7 @@ footer p {
         width: 100%;
     };
 }
+
+.main-stuff p {
+    padding-top: 20px;
+}
